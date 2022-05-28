@@ -26,3 +26,5 @@ isFraud - This is the transactions made by the fraudulent agents inside the simu
 isFlaggedFraud - The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.
 
 LINK : (https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
+
+We will be doing predictive Analysis (Random Forest & Decision Tree)
